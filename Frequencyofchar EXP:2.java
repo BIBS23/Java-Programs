@@ -1,5 +1,5 @@
 /**************************************
- FILE  NAME  : PALINROME
+ FILE  NAME  : Frequency
  PROGRAM     : WRITE A PROGRAM TO PRINT FREAQUENCY OF CHARACTOR.            
  AUTHOR      : BIBIN JOSE
  DATE        : 29/11/2021
